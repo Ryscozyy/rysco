@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "delay": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^20.1.1"
+  }
+}
